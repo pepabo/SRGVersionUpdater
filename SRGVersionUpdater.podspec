@@ -12,5 +12,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency 'BlocksKit' , '2.2.5'
-  s.dependency 'AFNetworking', '2.3.1'
+  s.dependency 'AFNetworking', '~> 2.5'
 end
